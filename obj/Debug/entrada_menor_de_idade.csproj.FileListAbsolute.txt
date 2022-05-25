@@ -1,0 +1,10 @@
+D:\Exercicios logica\entrada_menor_de_idade\bin\Debug\entrada_menor_de_idade.exe.config
+D:\Exercicios logica\entrada_menor_de_idade\bin\Debug\entrada_menor_de_idade.exe
+D:\Exercicios logica\entrada_menor_de_idade\bin\Debug\entrada_menor_de_idade.pdb
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.csproj.AssemblyReference.cache
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.Form1.resources
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.Properties.Resources.resources
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.csproj.GenerateResource.cache
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.csproj.CoreCompileInputs.cache
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.exe
+D:\Exercicios logica\entrada_menor_de_idade\obj\Debug\entrada_menor_de_idade.pdb
